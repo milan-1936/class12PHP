@@ -1,0 +1,2 @@
+Write a program in php to find out factorial of 5
+write a programr in php to demonstrate object and classes
