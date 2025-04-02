@@ -12,7 +12,10 @@
     
         // Method (function)
         public function displayInfo() {
-            return "This car is a $this->color $this->brand.";
+            echo "This car is a $this->color $this->brand.";
         }
-    }    
+    }
+
+    $gadi = new Car("Tesla","red");
+    $gadi->displayInfo();
 ?>
