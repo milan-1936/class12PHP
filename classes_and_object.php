@@ -11,7 +11,7 @@
         }
     
         // Method (function)
-        private function displayInfo() {
+        public function displayInfo() {
             echo "This car is a $this->color $this->brand.";
         }
     }
